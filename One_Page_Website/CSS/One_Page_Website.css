@@ -1,0 +1,17 @@
+body{
+    font-family: "cursive", cursive;
+    font-size: 16px ;
+}
+form{
+    width: 40%;
+    margin: 10px 1em;
+    border: 1px solid #000;
+    padding: 12px 12px;
+}
+input[type="text"]{
+    width: 80%;
+    margin: 5px 1em;
+    padding: 2% 1% 2% 7%;
+    border-radius: 7px;
+    border: 2px solid black;
+}
